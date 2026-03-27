@@ -1,9 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: Peihan Li
+tagline: Software Engineer | AI & Backend Focus
+description: 专业的技术博客和项目展示
+url: https://AndyLi429.github.io
 avatar: /avatar.jpeg
-paginate: 5
+paginate: 10
+paginate_path: /blog/page/:num/
 permalink: pretty
 cover_image: /bg.jpeg
 
@@ -29,20 +31,24 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: AndyLi429
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Peihan Li
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/AndyLi429
 google_site_verification: xxxxx
 lang: en
+github_username: AndyLi429
+markdown: kramdown
 
 sass:
   sass_dir: _sass
   style: :compressed
+
+# Color scheme
+color-scheme: light
 
 # Options
 
@@ -54,6 +60,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Peihan Li
+  url: https://github.com/AndyLi429/
+  email: lipeihan1994@gmail.com
