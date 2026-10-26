@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Projects
+title: 项目
+icon: fas fa-code
+order: 4
 permalink: /projects/
 ---
 
@@ -59,7 +61,7 @@ permalink: /projects/
 **技术栈**：Jekyll, Markdown, GitHub Pages
 
 **描述**：
-使用 Jekyll 和 not-pure-poole 主题搭建的个人技术博客，记录学习和工程实践。支持标签分类、全文搜索。
+使用 Jekyll 和 Chirpy 主题搭建的个人技术博客，记录学习和工程实践。支持标签分类、全文搜索。
 
 **链接**：[本站](https://github.com/AndyLi429/AndyLi429.github.io)
 
